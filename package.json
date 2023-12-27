@@ -1,0 +1,23 @@
+{
+  "name": "garvi-react",
+  "version": "1.0.0",
+  "description": "This is garvi-react by Rohit yadav",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Rohit-2069/garvi-react.git"
+  },
+  "keywords": [],
+  "author": "Rohit yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "git@github.com:Rohit-2069/garvi-react.git/issues"
+  },
+  "homepage": "git@github.com:Rohit-2069/garvi-react.git#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
